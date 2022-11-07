@@ -7,7 +7,7 @@
   - Charbel Maroun (Frontend - Client): [@charbelmaroundev](https://github.com/charbelmaroundev)
   - Hassan Khalil (Backend): [@hassankhalil33](https://github.com/hassankhalil33)
   - Ali Obeid (Backend): [@AliObeid01](https://github.com/AliObeid01)
-  - Tarek Charif (Frontend - Client): [@TCHF25](https://github.com/TCHF25)
+  - Tarek Chari (Frontend - Client): [@TCHF25](https://github.com/TCHF25)
 
 # Screenshots
 
